@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gremlins.SampleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-23T04:35:55" hostname="james-ThinkPad-X1-Extreme-2nd" time="1.554">
+  <properties/>
+  <testcase name="testLoadingMap()" classname="gremlins.SampleTest" time="1.554"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
